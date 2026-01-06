@@ -17,10 +17,10 @@ background-color: black;
 overscroll-behavior-x: none;
 }
 a{
- color: #747474;
+ color: rgba(77, 146, 231, 0.8);
 }
 a:visited{
- color: rgba(77, 146, 231, 0.8);
+ color: #747474;
 }
 
 body{
