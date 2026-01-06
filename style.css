@@ -23,6 +23,10 @@ a:visited{
  color: #747474;
 }
 
+.title{
+ position: fixed;
+ top: 1em;
+}
 body{
  align-items: center;
 justify-content: center;
